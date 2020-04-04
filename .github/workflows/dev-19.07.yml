@@ -9,8 +9,8 @@
 name: openwrt-dev-19.07
 
 on:
-  # watch:
-    # types: [started]
+  watch:
+    types: [started]
   push:
     branches: 
       - dev-19.07
